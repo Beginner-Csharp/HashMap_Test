@@ -1,0 +1,15 @@
+C:\Users\NewzCJ\Source\Repos\HashMap_Test\HashMap_Test\bin\Debug\HashMap_Test.exe.config
+C:\Users\NewzCJ\Source\Repos\HashMap_Test\HashMap_Test\bin\Debug\HashMap_Test.exe
+C:\Users\NewzCJ\Source\Repos\HashMap_Test\HashMap_Test\bin\Debug\HashMap_Test.pdb
+C:\Users\NewzCJ\Source\Repos\HashMap_Test\HashMap_Test\obj\Debug\HashMap_Test.csprojAssemblyReference.cache
+C:\Users\NewzCJ\Source\Repos\HashMap_Test\HashMap_Test\obj\Debug\MainWindow.g.cs
+C:\Users\NewzCJ\Source\Repos\HashMap_Test\HashMap_Test\obj\Debug\App.g.cs
+C:\Users\NewzCJ\Source\Repos\HashMap_Test\HashMap_Test\obj\Debug\HashMap_Test_MarkupCompile.cache
+C:\Users\NewzCJ\Source\Repos\HashMap_Test\HashMap_Test\obj\Debug\HashMap_Test_MarkupCompile.lref
+C:\Users\NewzCJ\Source\Repos\HashMap_Test\HashMap_Test\obj\Debug\MainWindow.baml
+C:\Users\NewzCJ\Source\Repos\HashMap_Test\HashMap_Test\obj\Debug\HashMap_Test.g.resources
+C:\Users\NewzCJ\Source\Repos\HashMap_Test\HashMap_Test\obj\Debug\HashMap_Test.Properties.Resources.resources
+C:\Users\NewzCJ\Source\Repos\HashMap_Test\HashMap_Test\obj\Debug\HashMap_Test.csproj.GenerateResource.cache
+C:\Users\NewzCJ\Source\Repos\HashMap_Test\HashMap_Test\obj\Debug\HashMap_Test.csproj.CoreCompileInputs.cache
+C:\Users\NewzCJ\Source\Repos\HashMap_Test\HashMap_Test\obj\Debug\HashMap_Test.exe
+C:\Users\NewzCJ\Source\Repos\HashMap_Test\HashMap_Test\obj\Debug\HashMap_Test.pdb
